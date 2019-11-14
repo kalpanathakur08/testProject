@@ -1,4 +1,4 @@
-module github.com/kalpanathakur08/gremtune
+module github.com/kalpanathakur08/testProject
 
 go 1.12
 
